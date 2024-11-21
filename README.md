@@ -1,9 +1,7 @@
-# LukeBauer.github.io
-
 <!DOCTYPE html>
 <html>
   <head>
-    <title>REPLACE_ME</title>
+    <title>Luke Bauer</title>
   </head>
   <body>
     <div class="container">
