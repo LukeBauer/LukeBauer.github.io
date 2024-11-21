@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Luke Bauer</title>
+    Luke Bauer
   </head>
   <body>
     <div class="container">
